@@ -1,0 +1,54 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.button {
+	width: 60px;
+	height: 60px;
+	font-size: 25px;
+	margin: 2px;
+	cursor: pointer;
+	background: #01040b;
+	border: none;
+	color: #5b889f;
+	border: none;
+	background: linear-gradient(to top left, #28c9d3, #ffbbb0 ) no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.textview {
+	width: 247px;
+	height: 50px;
+	margin: 5px;
+	font-size: 25px;
+	padding: 5px;
+	color: #5b889f;
+	border: none;
+	background: linear-gradient(to top left, #28c9d3, #ffbbb0 ) no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.main {
+	width: 100%;
+	display: flex;
+ 	justify-content: center;
+ 	-ms-align-items: center;
+ 	align-items: center;
+ 	background: url(574c93b7de51515503210667.jpg) no-repeat;
+ 	background-position: center center;
+ 	-webkit-background-size: cover;
+ 	background-size: cover;
+ 	height: 100vh;
+}
+.content {
+	padding: 120px;
+}
+.zero {
+	width: 125px;	
+}
+.summa {
+	height: 125px;
+}
